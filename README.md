@@ -63,7 +63,7 @@ accuracy
 
 ## Output:
 
-## RESULT OUTPUT:
+## Result Output:
 
 ![image](https://github.com/Jai-1801/Implementation-of-SVM-For-Spam-Mail-Detection/assets/139335300/7c5f461a-d8d1-41c3-9852-a5041e1c2b61)
 
